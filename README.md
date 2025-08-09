@@ -1,9 +1,10 @@
-This is a project I worked on to improve customer data quality for Triodos bank as part of my Masters in Data Driven Design.
+This is a project I worked on to improve customer data quality for Triodos bank as part of my Masters in Data Driven Design at the Hogeschool Utrecht
 * dqi_phase_1.ipynb shows the first phase of explorations
 * dqi_phase_2.ipynb shows the second phase of explorations
 * dqi_phase_3.ipynb shows the  final solution
 * dqi.py file is the streamlit file that demos the solution in streamlit
 
+Read the [case study here](https://ladetawak.notion.site/Towards-a-Data-Quality-Indicator-DQI-to-Motivate-Triodos-Bank-Customers-to-Keep-Accurate-and-Up-to-1f84276d6db980f3a9c5f5bbf53126b5) to learn more about the project
 
 **Problems faced by Client**
 
